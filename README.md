@@ -1,10 +1,12 @@
+
+
 <h1 align="center">
-  Welcome to My GitHub Page
+  #         Meet ✨Me✨
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+guys;I+am+D;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+guys;I+am+D;Self++learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
 <div align="center">
@@ -12,46 +14,41 @@
 </div>
 
 
+- 👋 Hi, I’m deni-13
+- 👀 I’m interested in Data Science: AI and ML
+- 🌱 I’m currently learning Data Science /ML with Python &SQL
+- 💞️ I’m looking to collaborate on web app projects with a social impact
+- 📫 Reach me on mail
+  
 
- <!--Statistics-->
-<div align="center">
-  <div align="center">
-<a href="https://github.com/deni-13/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=deni-13&color=f75c7e">
-</a>
-<a href="https://github.com/deni-13?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/deni-13?style=flat-square&color=f75c7e">
-</a>
-  </div>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0gregory0" alt="0gregory0" /></a> </p> -->
 
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deni-13&show_icons=true&theme=radical" />
-</div>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=deni-13&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=deni-13t&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deni-13&layout=compact&theme=radical" />
-</a>
-</div>
+## Random Dev Quotes that I like
 
-<hr />
-<!-- <table><tr>
-    <td valign="top" width="100%">
-        <div align="center">
-           <h2> <b> Language and Tools </b> </h2>
-        </div>
-        <div align="center">  
-         <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-            <img style="margin: 10px" alt="Vue" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
-            <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
-            <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-        </div></td><td valign="top" width="50%">
-        </tr>
-</table>-->
+- "Move fast and break things. ..." ~***Mark Zuckerberg***
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=deni-13&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/deni-13/deni-13/blob/output/github-contribution-grid-snake.svg" /></div>
+<hr>
+
+## Tech Stack
+
+<h3 align="left">Languages and Tools 🧰</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
+
+
+
+<h3 align="left">GitHub Stats 📈</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deni-13&theme=dark" alt="deni-13" /></p>
+
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=deni-13&show_icons=true&theme=github_dark" />
+</picture> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deni-13&layout=compact&theme=transparent)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0gregory0&label=Profile%20views&color=0e75b6&style=flat" alt="deni-13" /> </p>
