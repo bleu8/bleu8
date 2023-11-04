@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m deni-13
 - 👀 I’m interested in Data Science: AI and ML
-- 🌱 I’m currently learning Data Science /ML with Python &SQL
+- 🌱 I’m currently learning/developing Python &SQL and learning Java
 - 💞️ I’m looking to collaborate on web app projects with a social impact
 - 📫 Reach me on mail
   
