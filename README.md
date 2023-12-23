@@ -14,7 +14,7 @@
 </div>
 
 
-- 👋 Hi, I’m deni-13
+- 👋 Hi
 - 👀 I’m interested in Data Science: ML-Databases
 - 🌱 I’m currently learning/developing Python &SQL and learning Java
 - 💞️ I’m looking to collaborate on web app projects with a social impact
