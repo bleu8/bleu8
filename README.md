@@ -25,7 +25,7 @@
 
 ## Random Dev Quotes that I like
 
-- "Move fast and break things. ..." ~***Mark Zuckerberg***
+- "Move fast and break things. ..."
 
 <hr>
 
@@ -43,12 +43,12 @@
 
 
 <h3 align="left">GitHub Stats 📈</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deni-13&theme=dark" alt="deni-13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gda1335&theme=dark" alt="gda1335" /></p>
 
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=deni-13&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=gda1335&show_icons=true&theme=github_dark" />
 </picture> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deni-13&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gda1335&layout=compact&theme=transparent)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0gregory0&label=Profile%20views&color=0e75b6&style=flat" alt="deni-13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gda1335&label=Profile%20views&color=0e75b6&style=flat" alt="gda1335" /> </p>
