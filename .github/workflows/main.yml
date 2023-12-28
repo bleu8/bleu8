@@ -15,4 +15,4 @@
             user_name: gda1335
             # Text on contribution graph 
             text: hello
-       - uses: jasineri/simple-push-action@v1
+       - uses: gda1335/simple-push-action@v1
