@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+guys;I+am+D;Self++learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+guys;Self++learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 - 📫 Reach me on mail
   
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0gregory0" alt="0gregory0" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gda1335" alt="gda1335" /></a> </p> 
 
 ## Random Dev Quotes that I like
 
