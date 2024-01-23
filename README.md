@@ -14,7 +14,7 @@
 </div>
 
 
-- 👋 Hi
+- 👋 I'm back 
 - 👀 I’m interested in Data Science and getting education
 - 🌱 I’m currently learning/developing Python &SQL and learning Java
 - 💞️ My interest:Data Science/Machine Learning & Query Enthusiast  💻  Python &  SQL & Scala &Java 
