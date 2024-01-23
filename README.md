@@ -17,9 +17,7 @@
 - 👋 Hi
 - 👀 I’m interested in Data Science: ML-Databases
 - 🌱 I’m currently learning/developing Python &SQL and learning Java
-- 💞️ I’m looking to collaborate on web app projects with a social impact
-- 📫 Reach me on mail
-  
+- 💞️ My interest:Data Science/Machine Learning & Query Enthusiast  💻  Python &  SQL & Scala &Java 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gda1335" alt="gda1335" /></a> </p> 
 
