@@ -20,11 +20,6 @@
 - 💞️ My interest:Data Science/Machine Learning & Query Enthusiast  💻  Python &  SQL & Scala &Java 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gda1335" alt="gda1335" /></a> </p> 
-
-## Random Dev Quotes that I like
-
-- "Move fast and break things. ..."
-
 <hr>
 
 ## Tech Stack
