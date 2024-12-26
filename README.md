@@ -14,10 +14,10 @@
 </div>
 
 
-- 👋 I'm back 
-- 👀 I’m interested in Data Science and getting education
-- 🌱 I’m currently learning/developing Python &SQL and learning Java
-- 💞️ My interest:Data Science/Machine Learning & Query Enthusiast  💻  Python &  SQL & Scala &Java 
+- 👋 Hi
+- 👀 I’m interested in Data Science and getting education/MSc
+- 🌱 I’m currently learning/developing Python &SQL and learning 
+- 💞️ My interest:Data Science/Machine Learning & Query Enthusiast  💻  Python &  SQL & Scala(beginner) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gda1335" alt="gda1335" /></a> </p> 
 <hr>
